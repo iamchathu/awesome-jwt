@@ -9,6 +9,7 @@
 - [Libraries](#libraries)
     - [NodeJS](#nodejs)
     - [C#](#c)
+    - [PHP](#php)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
@@ -26,21 +27,24 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 ## Libraries
 
 ### NodeJS
-- [Node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) JsonWebToken implementation for node.js.
-- [nJWT](https://github.com/jwtk/njwt) Node.js JWT support.
+- [Node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JSON Web Token implementation for node.js.
+- [nJWT](https://github.com/jwtk/njwt) - Node.js JWT support.
 
 ### C#
 
+### PHP
+- [PHP-JWT](https://github.com/firebase/php-jwt) - A simple library to encode and decode JSON Web Tokens (JWT) in PHP.
+
 ## Tools
-- [JWT.io](https://jwt.io) Decode, verify and generate JWT online.
-- [JWT Debugger](https://chrome.google.com/webstore/detail/jwt-debugger/ppmmlchacdbknfphdeafcbmklcghghmd) Chrome Extenstion for debugging JWT
-- [JSONWebToken.io](https://www.jsonwebtoken.io/) Encode or Decode JWTs online.
-- [JWT Inspector](https://www.jwtinspector.io/) Chrome Extension to inspect JWT.
+- [JWT.io](https://jwt.io) - Decode, verify and generate JWT online.
+- [JWT Debugger](https://chrome.google.com/webstore/detail/jwt-debugger/ppmmlchacdbknfphdeafcbmklcghghmd) - Chrome Extenstion for debugging JWT
+- [JSONWebToken.io](https://www.jsonwebtoken.io/) - Encode or Decode JWTs online.
+- [JWT Inspector](https://www.jwtinspector.io/) - Chrome Extension to inspect JWT.
 
 ## Tutorials
 
 ## Articles
-- [JWT Introduction](https://chathu.me/2017/08/28/jwt-introduction/)
+- [JWT Introduction](https://chathu.me/2017/08/28/jwt-introduction/) - Introduction to JSON Web Tokens.
 
 ## Videos
 

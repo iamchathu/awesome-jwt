@@ -12,6 +12,7 @@
     - [NodeJS](#nodejs)
     - [.Net](#net)
     - [PHP](#php)
+	- [Python](#python)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
@@ -33,9 +34,17 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 - [nJWT](https://github.com/jwtk/njwt) - Node.js JWT support.
 
 ### .Net
+- [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - Ultimate Javascript Object Signing and Encryption (JOSE) and JSON Web Token (JWT) Implementation for .NET and .NET Core.
+- [jose-rt](https://github.com/dvsekhvalnov/jose-rt) - WinRT (Windows 8.1 and Windows Phone 8.1) implementation of Javascript Object Signing and Encryption (JOSE) and JSON Web Token (JWT).
+- [azure-activedirectory-identitymodel-extensions-for-dotnet](https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet) - IdentityModel extensions for .Net.
+- [Jwt.Net](https://github.com/jwt-dotnet/jwt) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
 
 ### PHP
-- [PHP-JWT](https://github.com/firebase/php-jwt) - A simple library to encode and decode JSON Web Tokens (JWT) in PHP.
+- [php-jwt](https://github.com/firebase/php-jwt) - A simple library to encode and decode JSON Web Tokens (JWT) in PHP.
+
+### Python
+- [pyjwt](https://github.com/jpadilla/pyjwt/) - JSON Web Token implementation in Python.
+- [python-jose](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
 
 ## Tools
 - [JWT.io](https://jwt.io) - Decode, verify and generate JWT online.

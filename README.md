@@ -62,7 +62,7 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 
 ## Tools
 - [JWT.io](https://jwt.io) - Decode, verify and generate JWT online.
-- [JWT Debugger](https://chrome.google.com/webstore/detail/jwt-debugger/ppmmlchacdbknfphdeafcbmklcghghmd) - Chrome Extenstion for debugging JWT
+- [JWT Debugger](https://chrome.google.com/webstore/detail/jwt-debugger/ppmmlchacdbknfphdeafcbmklcghghmd) - Chrome Extenstion for debugging JWT.
 - [JSONWebToken.io](https://www.jsonwebtoken.io/) - Encode or Decode JWTs online.
 - [JWT Inspector](https://www.jwtinspector.io/) - Chrome Extension to inspect JWT.
 
@@ -78,7 +78,7 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 ## Podcasts
 
 ## Books
-- [JWT Handbook](https://auth0.com/e-books/jwt-handbook) Learn everything you wanted to know about JSON Web Tokens
+- [JWT Handbook](https://auth0.com/e-books/jwt-handbook) Learn everything you wanted to know about JSON Web Tokens.
 
 ## Blogs
 

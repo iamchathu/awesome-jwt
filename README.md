@@ -47,6 +47,7 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 
 ## Articles
 - [JWT Introduction](https://chathu.me/2017/08/28/jwt-introduction/) - Introduction to JSON Web Tokens.
+- [The Anatomy of a JSON Web Token](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token) - Getting to know JSON Web Tokens.
 
 ## Videos
 

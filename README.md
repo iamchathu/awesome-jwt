@@ -10,8 +10,8 @@
 - [JSON Web Tokens](#json-web-tokens)
 - [Libraries](#libraries)
     - [Elixir](#elixir)
+	- [.Net](#net)
     - [NodeJS](#nodejs)
-    - [.Net](#net)
     - [PHP](#php)
     - [Python](#python)
     - [Java](#java)
@@ -37,15 +37,15 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 - [jwtex](https://github.com/mschae/jwtex) - Library to encode and decode JWT tokens.
 - [plug_jwt](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
 
-### NodeJS
-- [Node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JSON Web Token implementation for node.js.
-- [nJWT](https://github.com/jwtk/njwt) - Node.js JWT support.
-
 ### .Net
 - [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - Ultimate Javascript Object Signing and Encryption (JOSE) and JSON Web Token (JWT) Implementation for .NET and .NET Core.
 - [jose-rt](https://github.com/dvsekhvalnov/jose-rt) - WinRT (Windows 8.1 and Windows Phone 8.1) implementation of Javascript Object Signing and Encryption (JOSE) and JSON Web Token (JWT).
 - [azure-activedirectory-identitymodel-extensions-for-dotnet](https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet) - IdentityModel extensions for .Net.
 - [Jwt.Net](https://github.com/jwt-dotnet/jwt) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
+
+### NodeJS
+- [Node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JSON Web Token implementation for node.js.
+- [nJWT](https://github.com/jwtk/njwt) - Node.js JWT support.
 
 ### PHP
 - [php-jwt](https://github.com/firebase/php-jwt) - A simple library to encode and decode JSON Web Tokens (JWT) in PHP.

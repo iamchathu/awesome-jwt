@@ -9,6 +9,7 @@
 
 - [JSON Web Tokens](#json-web-tokens)
 - [Libraries](#libraries)
+    - [Elixir](#elixir)
     - [NodeJS](#nodejs)
     - [.Net](#net)
     - [PHP](#php)
@@ -29,6 +30,12 @@
 JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
 
 ## Libraries
+
+### Elixir
+- [json_web_token_ex](https://github.com/garyf/json_web_token_ex) - Elixir implementation of the JSON Web Token (JWT) standard [RFC 7519](http://tools.ietf.org/html/rfc7519).
+- [joken](https://github.com/bryanjos/joken) - JSON Web Token (JWT) Library. The goal of this library is to provide a convenient way to create, sign, verify, and validate JWTs while allowing the flexibility to customize each step along the way.
+- [jwtex](https://github.com/mschae/jwtex) - Library to encode and decode JWT tokens.
+- [plug_jwt](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
 
 ### NodeJS
 - [Node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JSON Web Token implementation for node.js.

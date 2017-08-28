@@ -10,7 +10,7 @@
 - [JSON Web Tokens](#json-web-tokens)
 - [Libraries](#libraries)
     - [NodeJS](#nodejs)
-    - [C#](#c)
+    - [.Net](#net)
     - [PHP](#php)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
@@ -32,7 +32,7 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 - [Node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JSON Web Token implementation for node.js.
 - [nJWT](https://github.com/jwtk/njwt) - Node.js JWT support.
 
-### C#
+### .Net
 
 ### PHP
 - [PHP-JWT](https://github.com/firebase/php-jwt) - A simple library to encode and decode JSON Web Tokens (JWT) in PHP.

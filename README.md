@@ -73,6 +73,7 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 - [The Anatomy of a JSON Web Token](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token) - Getting to know JSON Web Tokens.
 
 ## Videos
+- [JSON Web Token (JWT) Introduction - EggHead.io](https://egghead.io/lessons/angularjs-json-web-token-jwt-introduction) - A basic introduction to the mechanics of JWTs and the application we will be building in an AngularJS lesson series.
 
 ## Podcasts
 

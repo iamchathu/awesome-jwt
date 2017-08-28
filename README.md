@@ -7,8 +7,8 @@
 
 - [JSON Web Tokens](#json-web-tokens)
 - [Libraries](#libraries)
- - [NodeJS](#nodejs)
- - [C#](#c#)
+    - [NodeJS](#nodejs)
+    - [C#](#c#)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
 - [Videos](#videos)

@@ -58,6 +58,7 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 ## Blogs
 
 ## Courses
+- [Creating Apps With AngularJS, Node, and Token Authentication by Pluralsight](https://www.pluralsight.com/courses/creating-apps-angular-node-token-authentication) - Learn about Authentication, Authorization, and OAuth2 with Node Express and Angular.
 
 
  

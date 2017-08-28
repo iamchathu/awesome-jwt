@@ -5,6 +5,8 @@
 
 > A collection of awesome things regarding JSON Web Tokens.
 
+*Please read the [contribution guidelines](contributing.md) before contributing.*
+
 - [JSON Web Tokens](#json-web-tokens)
 - [Libraries](#libraries)
     - [NodeJS](#nodejs)

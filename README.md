@@ -11,11 +11,12 @@
 - [Libraries](#libraries)
     - [Elixir](#elixir)
     - [Java](#java)
-	- [Lua](#lua)
+    - [Lua](#lua)
     - [.Net](#net)
     - [NodeJS](#nodejs)
     - [PHP](#php)
     - [Python](#python)
+    - [Swift](#swift)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
@@ -63,6 +64,10 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 ### Python
 - [pyjwt](https://github.com/jpadilla/pyjwt/) - JSON Web Token implementation in Python.
 - [python-jose](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
+
+### Swift
+- [JSONWebToken](https://github.com/kylef/JSONWebToken.swift) - Swift implementation of JSON Web Token (JWT).
+- [jwt](https://github.com/vapor/jwt) - JSON Web Tokens in Swift.
 
 ## Tools
 - [JWT.io](https://jwt.io) - Decode, verify and generate JWT online.

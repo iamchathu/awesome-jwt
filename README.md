@@ -15,6 +15,7 @@
     - [Lua](#lua)
     - [.Net](#net)
     - [NodeJS](#nodejs)
+    - [Objective-C](#obejective-c)
     - [PHP](#php)
     - [Python](#python)
     - [Swift](#swift)
@@ -65,6 +66,9 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 ### NodeJS
 - [Node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JSON Web Token implementation for node.js.
 - [nJWT](https://github.com/jwtk/njwt) - Node.js JWT support.
+
+### Objective-C
+- [JWT](https://github.com/yourkarma/JWT) - JSON Web Token implementation in Objective-C.
 
 ### PHP
 - [php-jwt](https://github.com/firebase/php-jwt) - A simple library to encode and decode JSON Web Tokens (JWT) in PHP.

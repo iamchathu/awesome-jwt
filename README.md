@@ -15,7 +15,7 @@
     - [Lua](#lua)
     - [.Net](#net)
     - [NodeJS](#nodejs)
-    - [Objective-C](#obejective-c)
+    - [Objective-C](#objective-c)
     - [PHP](#php)
     - [Python](#python)
     - [Swift](#swift)

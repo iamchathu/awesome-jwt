@@ -10,7 +10,7 @@
 - [JSON Web Tokens](#json-web-tokens)
 - [Libraries](#libraries)
     - [Elixir](#elixir)
-	- [Go](#go)
+    - [Go](#go)
     - [Java](#java)
     - [Lua](#lua)
     - [.Net](#net)
@@ -42,6 +42,10 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 
 ### Go
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT).
+- [jose2go](https://github.com/dvsekhvalnov/jose2go) - Golang (GO) implementation of Javascript Object Signing and Encryption specification.
+- [jose](https://github.com/SermoDigital/jose) - Comprehensive set of JWT, JWS, and JWE libraries.
+- [jwt](https://github.com/robbert229/jwt) - This is an implementation of JWT in golang.
+- [go-jose](https://github.com/square/go-jose) - Implementation of JOSE standards (JWE, JWS, JWT) in Go.
 
 ### Java
 - [java-jwt](https://github.com/auth0/java-jwt) - Java implementation of JSON Web Token (JWT).

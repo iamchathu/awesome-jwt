@@ -66,6 +66,10 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 ### NodeJS
 - [Node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JSON Web Token implementation for node.js.
 - [nJWT](https://github.com/jwtk/njwt) - Node.js JWT support.
+- [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes.
+- [express-jwt-authz](https://github.com/auth0/express-jwt-authz) - Validate the JWT scope to authorize access to an endpoint.
+- [express-jwt-permissions](https://github.com/MichielDeMey/express-jwt-permissions) - Express middleware for JWT permissions.
+- [socketio-jwt](https://github.com/auth0/socketio-jwt) - Authenticate socket.io incoming connections with JWTs.
 
 ### Objective-C
 - [JWT](https://github.com/yourkarma/JWT) - JSON Web Token implementation in Objective-C.

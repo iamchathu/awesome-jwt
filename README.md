@@ -12,6 +12,7 @@
     - [Elixir](#elixir)
     - [Go](#go)
     - [Java](#java)
+    - [JavaScript](#javascript)
     - [Lua](#lua)
     - [.Net](#net)
     - [NodeJS](#nodejs)
@@ -53,6 +54,9 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 - [jose4j](https://bitbucket.org/b_c/jose4j/wiki/Home) - Implementation of JWT and the JOSE specification suite.
 - [Nimbus-JOSE-JWT](https://bitbucket.org/connect2id/nimbus-jose-jwt/wiki/Home) - Java library that implements the Javascript Object Signing and Encryption (JOSE) spec suite and the closely related JSON Web Token (JWT) spec.
 - [jJWT](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android.
+
+### JavaScript
+-[jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES JSON Web Signature/Token in pure JavaScript.
 
 ### Lua
 - [lua-reasty-jwt](https://github.com/SkyLothar/lua-resty-jwt) - JWT For The Great Openresty.

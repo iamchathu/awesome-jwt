@@ -19,6 +19,7 @@
     - [Objective-C](#objective-c)
     - [PHP](#php)
     - [Python](#python)
+    - [Rust](#rust)
     - [Swift](#swift)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
@@ -84,6 +85,9 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 ### Python
 - [pyjwt](https://github.com/jpadilla/pyjwt/) - JSON Web Token implementation in Python.
 - [python-jose](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
+
+### Rust
+- [frank_jwt](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation in Rust.
 
 ### Swift
 - [JSONWebToken](https://github.com/kylef/JSONWebToken.swift) - Swift implementation of JSON Web Token (JWT).

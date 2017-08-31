@@ -7,6 +7,8 @@
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
+Content
+
 - [JSON Web Tokens](#json-web-tokens)
 - [Libraries](#libraries)
     - [Elixir](#elixir)

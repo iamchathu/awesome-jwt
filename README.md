@@ -46,6 +46,7 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 - [joken](https://github.com/bryanjos/joken) - JSON Web Token (JWT) Library. The goal of this library is to provide a convenient way to create, sign, verify, and validate JWTs while allowing the flexibility to customize each step along the way.
 - [jwtex](https://github.com/mschae/jwtex) - Library to encode and decode JWT tokens.
 - [plug_jwt](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
+- [guardian](https://github.com/ueberauth/guardian) - Elixir Authentication.
 
 ### Go
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT).

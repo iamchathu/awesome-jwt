@@ -21,7 +21,7 @@ Content
     - [Objective-C](#objective-c)
     - [PHP](#php)
     - [Python](#python)
-    - Ruby(#ruby)
+    - [Ruby](#ruby)
     - [Rust](#rust)
     - [Swift](#swift)
 - [Tools](#tools)

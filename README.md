@@ -21,6 +21,7 @@ Content
     - [Objective-C](#objective-c)
     - [PHP](#php)
     - [Python](#python)
+    - Ruby(#ruby)
     - [Rust](#rust)
     - [Swift](#swift)
 - [Tools](#tools)
@@ -88,6 +89,11 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 ### Python
 - [pyjwt](https://github.com/jpadilla/pyjwt/) - JSON Web Token implementation in Python.
 - [python-jose](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
+
+### Ruby
+- [ruby-jwt](https://github.com/jwt/ruby-jwt) - Pure ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.
+- [json-jwt](https://github.com/nov/json-jwt) - JSON Web Token and its family (JSON Web Signature, JSON Web Encryption and JSON Web Key) in Ruby.
+- [json_web_token](https://github.com/garyf/json_web_token) - Ruby implementation of the JSON Web Token (JWT) standard, RFC 7519.
 
 ### Rust
 - [frank_jwt](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation in Rust.

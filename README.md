@@ -18,6 +18,7 @@
     - [.Net](#net)
     - [NodeJS](#nodejs)
     - [Objective-C](#objective-c)
+    - [Perl](#perl)
     - [PHP](#php)
     - [Python](#python)
     - [Ruby](#ruby)
@@ -83,6 +84,9 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 
 ### Objective-C
 - [JWT](https://github.com/yourkarma/JWT) - JSON Web Token implementation in Objective-C.
+
+### Perl
+- [perl-Crypt-JWT](https://github.com/DCIT/perl-Crypt-JWT) -  Implements JSON Web Token (JWT, JWS, JWE).
 
 ### PHP
 - [php-jwt](https://github.com/firebase/php-jwt) - A simple library to encode and decode JSON Web Tokens (JWT) in PHP.

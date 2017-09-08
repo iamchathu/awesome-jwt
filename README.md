@@ -10,6 +10,7 @@
 
 - [JSON Web Tokens](#json-web-tokens)
 - [Libraries](#libraries)
+    - [C](#c)
     - [Elixir](#elixir)
     - [Go](#go)
     - [Java](#java)
@@ -40,6 +41,9 @@
 JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
 
 ## Libraries
+
+### C
+- [libjwt](https://github.com/benmcollins/libjwt) - JWT C Library.
 
 ### Elixir
 - [json_web_token_ex](https://github.com/garyf/json_web_token_ex) - Elixir implementation of the JSON Web Token (JWT) standard RFC 7519.

@@ -12,6 +12,7 @@
 - [Libraries](#libraries)
     - [C](#c)
     - [Clojure](#clojure)
+    - [Delphi](#delphi)
     - [Elixir](#elixir)
     - [Go](#go)
     - [Java](#java)
@@ -49,6 +50,9 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 
 ### Clojure
 - [buddy](https://github.com/funcool/buddy/) - Security library for Clojure.
+
+### Delphi
+- [delphi-jose-jwt](https://github.com/paolo-rossi/delphi-jose-jwt) - Delphi implementation of JOSE and JWT.
 
 ### Elixir
 - [json_web_token_ex](https://github.com/garyf/json_web_token_ex) - Elixir implementation of the JSON Web Token (JWT) standard RFC 7519.

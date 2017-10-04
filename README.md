@@ -11,7 +11,7 @@
 - [JSON Web Tokens](#json-web-tokens)
 - [Libraries](#libraries)
     - [C](#c)
-	- [Clojure](#clojure)
+    - [Clojure](#clojure)
     - [Elixir](#elixir)
     - [Go](#go)
     - [Java](#java)
@@ -25,6 +25,7 @@
     - [Python](#python)
     - [Ruby](#ruby)
     - [Rust](#rust)
+    - [Scala](#scala)
     - [Swift](#swift)
 - [Tools](#tools)
 - [Tutorials](#tutorials)
@@ -111,6 +112,11 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 
 ### Rust
 - [frank_jwt](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation in Rust.
+
+### Scala
+- [authentikat-jwt](https://github.com/jasongoodwin/authentikat-jwt) - JWT Scala Implementation, Claims based auth for Scala.
+- [jwt-scala](https://github.com/pauldijou/jwt-scala) - JWT support for Scala.
+- [jwt](https://github.com/iain-logan/jwt) - Scala implementation of the JWT specification.
 
 ### Swift
 - [JSONWebToken](https://github.com/kylef/JSONWebToken.swift) - Swift implementation of JSON Web Token (JWT).

@@ -48,7 +48,7 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 - [libjwt](https://github.com/benmcollins/libjwt) - JWT C Library.
 
 ### Clojure
-- [buddy](https://github.com/funcool/buddy/)
+- [buddy](https://github.com/funcool/buddy/) - Security library for Clojure.
 
 ### Elixir
 - [json_web_token_ex](https://github.com/garyf/json_web_token_ex) - Elixir implementation of the JSON Web Token (JWT) standard RFC 7519.

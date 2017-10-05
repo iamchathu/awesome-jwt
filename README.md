@@ -1,10 +1,13 @@
 # Awesome JWT (JSON Web Tokens) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="http://jwt.io/assets/logo.svg" align="right" width="100">](https://github.com/iamchathu/awesome-jwt/)
+[<img src="http://jwt.io/assets/logo.svg" align="right" width="100">](https://jwt.io)
 
 > A collection of awesome things regarding JSON Web Tokens.
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
+
+## JSON Web Tokens
+[JSON Web Tokens](https://en.wikipedia.org/wiki/JSON_Web_Token) are an open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
 
 ## Contents
 
@@ -19,7 +22,7 @@
     - [JavaScript](#javascript)
     - [Lua](#lua)
     - [.Net](#net)
-    - [NodeJS](#nodejs)
+    - [Node.js](#nodejs)
     - [Objective-C](#objective-c)
     - [Perl](#perl)
     - [PHP](#php)
@@ -40,13 +43,10 @@
 
 ---
 
-## JSON Web Tokens
-JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org/html/rfc7519) method for representing claims securely between two parties.
-
 ## Libraries
 
 ### C
-- [libjwt](https://github.com/benmcollins/libjwt) - JWT C Library.
+- [libjwt](https://github.com/benmcollins/libjwt) - C Library.
 
 ### Clojure
 - [buddy](https://github.com/funcool/buddy/) - Security library for Clojure.
@@ -56,7 +56,7 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 
 ### Elixir
 - [json_web_token_ex](https://github.com/garyf/json_web_token_ex) - Elixir implementation of the JSON Web Token (JWT) standard RFC 7519.
-- [joken](https://github.com/bryanjos/joken) - JSON Web Token (JWT) Library. The goal of this library is to provide a convenient way to create, sign, verify, and validate JWTs while allowing the flexibility to customize each step along the way.
+- [joken](https://github.com/bryanjos/joken) - This library provides a convenient way to create, sign, verify, and validate JWTs while allowing the flexibility to customize each step along the way.
 - [jwtex](https://github.com/mschae/jwtex) - Library to encode and decode JWT tokens.
 - [plug_jwt](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
 - [guardian](https://github.com/ueberauth/guardian) - Elixir Authentication.
@@ -80,18 +80,18 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 - [jwt-decode](https://github.com/auth0/jwt-decode) - Decode JWT tokens, useful for browser applications.
 
 ### Lua
-- [lua-reasty-jwt](https://github.com/SkyLothar/lua-resty-jwt) - JWT For The Great Openresty.
+- [lua-reasty-jwt](https://github.com/SkyLothar/lua-resty-jwt) - The Great Openresty's JWT.
 
 ### .Net
 - [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - Ultimate Javascript Object Signing and Encryption (JOSE) and JSON Web Token (JWT) Implementation for .NET and .NET Core.
 - [jose-rt](https://github.com/dvsekhvalnov/jose-rt) - WinRT (Windows 8.1 and Windows Phone 8.1) implementation of Javascript Object Signing and Encryption (JOSE) and JSON Web Token (JWT).
 - [azure-activedirectory-identitymodel-extensions-for-dotnet](https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet) - IdentityModel extensions for .Net.
-- [Jwt.Net](https://github.com/jwt-dotnet/jwt) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
+- [Jwt.Net](https://github.com/jwt-dotnet/jwt) - Implementation for .NET.
 
-### NodeJS
-- [Node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JSON Web Token implementation for node.js.
+### Node.js
+- [Node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - Implementation for Node.js.
 - [nJWT](https://github.com/jwtk/njwt) - Node.js JWT support.
-- [express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes.
+- [express-jwt](https://github.com/auth0/express-jwt) - Connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes.
 - [express-jwt-authz](https://github.com/auth0/express-jwt-authz) - Validate the JWT scope to authorize access to an endpoint.
 - [express-jwt-permissions](https://github.com/MichielDeMey/express-jwt-permissions) - Express middleware for JWT permissions.
 - [socketio-jwt](https://github.com/auth0/socketio-jwt) - Authenticate socket.io incoming connections with JWTs.
@@ -103,28 +103,28 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 - [perl-Crypt-JWT](https://github.com/DCIT/perl-Crypt-JWT) -  Implements JSON Web Token (JWT, JWS, JWE).
 
 ### PHP
-- [php-jwt](https://github.com/firebase/php-jwt) - A simple library to encode and decode JSON Web Tokens (JWT) in PHP.
+- [php-jwt](https://github.com/firebase/php-jwt) - Simple library to encode and decode JSON Web Tokens (JWT) in PHP.
 
 ### Python
-- [pyjwt](https://github.com/jpadilla/pyjwt/) - JSON Web Token implementation in Python.
-- [python-jose](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
+- [pyjwt](https://github.com/jpadilla/pyjwt/) - Implementation in Python.
+- [python-jose](https://github.com/mpdavis/python-jose/) - JOSE implementation in Python.
 
 ### Ruby
 - [ruby-jwt](https://github.com/jwt/ruby-jwt) - Pure ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.
-- [json-jwt](https://github.com/nov/json-jwt) - JSON Web Token and its family (JSON Web Signature, JSON Web Encryption and JSON Web Key) in Ruby.
+- [json-jwt](https://github.com/nov/json-jwt) - JSON Web Signature, JSON Web Encryption and JSON Web Key and JWT in Ruby.
 - [json_web_token](https://github.com/garyf/json_web_token) - Ruby implementation of the JSON Web Token (JWT) standard, RFC 7519.
 
 ### Rust
-- [frank_jwt](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation in Rust.
+- [frank_jwt](https://github.com/GildedHonour/frank_jwt) - Implementation in Rust.
 
 ### Scala
 - [authentikat-jwt](https://github.com/jasongoodwin/authentikat-jwt) - JWT Scala Implementation, Claims based auth for Scala.
-- [jwt-scala](https://github.com/pauldijou/jwt-scala) - JWT support for Scala.
+- [jwt-scala](https://github.com/pauldijou/jwt-scala) - Support for Scala.
 - [jwt](https://github.com/iain-logan/jwt) - Scala implementation of the JWT specification.
 
 ### Swift
 - [JSONWebToken](https://github.com/kylef/JSONWebToken.swift) - Swift implementation of JSON Web Token (JWT).
-- [jwt](https://github.com/vapor/jwt) - JSON Web Tokens in Swift.
+- [jwt](https://github.com/vapor/jwt) - Implementation in Swift.
 
 ## Tools
 - [JWT.io](https://jwt.io) - Decode, verify and generate JWT online.
@@ -139,15 +139,15 @@ JSON Web Tokens are an open, industry standard [RFC 7519](https://tools.ietf.org
 - [The Anatomy of a JSON Web Token](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token) - Getting to know JSON Web Tokens.
 
 ## Videos
-- [JSON Web Token (JWT) Introduction by EggHead.io](https://egghead.io/lessons/angularjs-json-web-token-jwt-introduction) - A basic introduction to the mechanics of JWTs and the application we will be building in an AngularJS lesson series.
+- [JSON Web Token (JWT) Introduction by EggHead.io](https://egghead.io/lessons/angularjs-json-web-token-jwt-introduction) - Basic introduction to the mechanics of JWTs and the application we will be building in an AngularJS lesson series.
 
 ## Presentations
-- [JSON Web Tokens](https://speakerdeck.com/thameera/json-web-tokens) - JWT Presentation done at Colombo JS Meetup by Thameera Senanayaka.
+- [JSON Web Tokens](https://speakerdeck.com/thameera/json-web-tokens) - Presentation done at Colombo JS Meetup by Thameera Senanayaka.
 
 ## Podcasts
 
 ## Books
-- [JWT Handbook](https://auth0.com/e-books/jwt-handbook) Learn everything you wanted to know about JSON Web Tokens.
+- [JWT Handbook](https://auth0.com/e-books/jwt-handbook) - Learn everything you wanted to know about JSON Web Tokens.
 
 ## Blogs
 

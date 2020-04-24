@@ -150,6 +150,7 @@
 - [JWT Handbook](https://auth0.com/e-books/jwt-handbook) - Learn everything you wanted to know about JSON Web Tokens.
 
 ## Blogs
+- [JWT Token NodeJS](https://medium.com/@prasanna18101994/jwt-json-web-token-nodejs-9ca2531bcf74?sk=d9997a14cbe93c899da6f168bb624d0f) - JWT (JSON Web Token) — NODEJS
 
 ## Courses
 - [Creating Apps With AngularJS, Node, and Token Authentication by Pluralsight](https://www.pluralsight.com/courses/creating-apps-angular-node-token-authentication) - Learn about Authentication, Authorization, and OAuth2 with Node Express and Angular.

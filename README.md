@@ -137,6 +137,7 @@
 ## Articles
 - [JWT Introduction](https://chathu.me/2017/08/28/jwt-introduction/) - Introduction to JSON Web Tokens.
 - [The Anatomy of a JSON Web Token](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token) - Getting to know JSON Web Tokens.
+- [JWT Signing Algorithms](https://www.loginradius.com/engineering/blog/jwt-signing-algorithms/) - JWT Signing Algorithms.
 
 ## Videos
 - [JSON Web Token (JWT) Introduction by EggHead.io](https://egghead.io/lessons/angularjs-json-web-token-jwt-introduction) - Basic introduction to the mechanics of JWTs and the application we will be building in an AngularJS lesson series.

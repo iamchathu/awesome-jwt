@@ -13,6 +13,7 @@
 
 - [JSON Web Tokens](#json-web-tokens)
 - [Libraries](#libraries)
+    - [Ballerina](#ballerina)
     - [C](#c)
     - [Clojure](#clojure)
     - [Delphi](#delphi)
@@ -44,6 +45,9 @@
 ---
 
 ## Libraries
+
+### Ballerina
+- [ballerina-jwt](https://github.com/ballerina-platform/module-ballerina-jwt) - Ballerina JWT Standard Library.
 
 ### C
 - [libjwt](https://github.com/benmcollins/libjwt) - C Library.

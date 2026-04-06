@@ -134,6 +134,7 @@
 - [JWT.io](https://jwt.io) - Decode, verify and generate JWT online.
 - [JWT Debugger](https://chrome.google.com/webstore/detail/jwt-debugger/ppmmlchacdbknfphdeafcbmklcghghmd) - Chrome Extenstion for debugging JWT.
 - [JSONWebToken.io](https://www.jsonwebtoken.io/) - Encode or Decode JWTs online.
+- [Anytools JWT Decoder](https://anytools.io/tools/jwt-decoder) - Decode and inspect JWT tokens in the browser. Header, payload, and signature displayed as formatted JSON. Fully client-side -- your token never leaves the browser.
 - [JWT Inspector](https://www.jwtinspector.io/) - Chrome Extension to inspect JWT.
 
 ## Tutorials

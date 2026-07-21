@@ -135,6 +135,7 @@
 - [JWT Debugger](https://chrome.google.com/webstore/detail/jwt-debugger/ppmmlchacdbknfphdeafcbmklcghghmd) - Chrome Extenstion for debugging JWT.
 - [JSONWebToken.io](https://www.jsonwebtoken.io/) - Encode or Decode JWTs online.
 - [JWT Inspector](https://www.jwtinspector.io/) - Chrome Extension to inspect JWT.
+- [JWT Decoder](https://amanksingh.com/tools/jwt-decoder) - Decode a JWT's header and payload in the browser; iat/exp/nbf shown as readable dates. No signature verification, nothing sent to a server.
 
 ## Tutorials
 
